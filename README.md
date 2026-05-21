@@ -41,16 +41,6 @@ I am exploring security evaluation methods for AIOS and LLM-based Agent systems,
 
 This work aims to better understand how Agent systems behave under complex task instructions, multi-step interactions, and tool-use scenarios.
 
-<pre>
-🤖 Agentic AI Systems
-        ↓
-🛠️ Tool-use Behaviors
-        ↓
-🧱 Permission Boundaries
-        ↓
-🚨 Security Risk Analysis
-</pre>
-
 Topics I care about:
 
 - 🧱 Permission boundary issues
