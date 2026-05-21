@@ -1,4 +1,4 @@
-# Hi there, I'm Xintong He 👋✨
+# Hi there, I'm Elena He 👋✨
 
 > 🛡️ Exploring AI Open-Source Software Supply Chain Security  
 > 🤖 Building security evaluation methods for Agentic AI & AIOS  
@@ -8,7 +8,7 @@
 
 ## 🧩 About Me
 
-Hi! I'm **Xintong He**, a researcher and developer interested in the security of open-source AI systems.
+Hi! I'm **Elena He**, a researcher and developer interested in the security of open-source AI systems.
 
 I am currently working on **AIOS / Agent security evaluation**, focusing on how LLM-based agents may cross permission boundaries during tool use, delegation, fallback, repair, or multi-turn interaction.
 
@@ -95,21 +95,16 @@ This research aims to support early warning and risk identification in open-sour
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
 ### 🧠 AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![BERT](https://img.shields.io/badge/BERT-00599C?style=for-the-badge)
 
 ### 🗄️ Data & Systems
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
