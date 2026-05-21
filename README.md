@@ -2,20 +2,11 @@
 
 # Hi there, I'm Elena He 👋✨
 
-### 🛡️ AI Open-Source Software Supply Chain Security  
-### 🤖 Agentic AI · AIOS · Tool-use Security  
-### 🔍 Semantic Execution Risks · Cross-Platform Risk Detection
+### 🧚‍♀️ Escape the Earth's Surface. 
 
 <p align="center">
-  <i>Turning messy AI system behaviors into structured security questions.</i>
+  <i>What — question mark, exclamation point?!</i>
 </p>
-
-<br>
-
-![AI Security](https://img.shields.io/badge/AI%20Security-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=B392F0)
-![AIOS](https://img.shields.io/badge/AIOS-0D1117?style=for-the-badge&logo=linux&logoColor=00C2FF)
-![Tool-use Risk](https://img.shields.io/badge/Tool--use%20Risk-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=FF6B6B)
 
 </div>
 
