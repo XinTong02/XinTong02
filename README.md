@@ -1,16 +1,168 @@
-## Hi there 👋
+# Hi there, I'm Xintong He 👋✨
 
-<!--
-**XinTong02/XinTong02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🛡️ Exploring AI Open-Source Software Supply Chain Security  
+> 🤖 Building security evaluation methods for Agentic AI & AIOS  
+> 🔍 Interested in semantic logic overreach, tool-use risks, and cross-platform risk detection
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+
+Hi! I'm **Xintong He**, a researcher and developer interested in the security of open-source AI systems.
+
+I am currently working on **AIOS / Agent security evaluation**, focusing on how LLM-based agents may cross permission boundaries during tool use, delegation, fallback, repair, or multi-turn interaction.
+
+In simple words:
+
+> I try to understand when an AI Agent says:  
+> “I’m just helping.”  
+> but actually starts doing something it should not do. 🚨
+
+---
+
+## 🔬 Research Interests
+
+- 🛡️ **AI Open-Source Software Supply Chain Security**
+- 🤖 **Agentic AI / AIOS Security Evaluation**
+- 🔍 **Semantic Logic Overreach Vulnerability Detection**
+- 🧪 **Feedback-driven Testing for LLM-based Agents**
+- 🧠 **Cross-Platform Malicious Developer Detection**
+- 📊 **Behavior Modeling & Multimodal Fusion**
+- 🗄️ **Data Engineering with Oracle / ClickHouse**
+
+---
+
+## 🚀 Current Research Direction
+### 🤖 AIOS / Agent Security Evaluation
+
+> Ongoing research · Details to be released
+
+I am exploring security evaluation methods for AIOS and LLM-based Agent systems, with a focus on tool-use behaviors, permission boundaries, and execution risks in open-source AI ecosystems.
+
+This work aims to better understand how Agent systems behave under complex task instructions, multi-step interactions, and tool-use scenarios.
+
+<pre>
+🤖 Agentic AI Systems
+        ↓
+🛠️ Tool-use Behaviors
+        ↓
+🧱 Permission Boundaries
+        ↓
+🚨 Security Risk Analysis
+</pre>
+
+Topics I care about:
+
+- 🧱 Permission boundary issues
+- 🛠️ Tool-use risks
+- 🔁 Delegation and interaction risks
+- 🧩 Context-related security behaviors
+- 🚨 AI software supply chain security
+---
+
+## 🧠 Previous Research
+
+### 🕵️ Cross-Platform Malicious Developer Detection
+
+I also work on malicious developer detection in open-source ecosystems by combining GitHub behavioral signals and Twitter semantic signals.
+
+The framework models developer behavior sequences, social semantic representations, and static profile features for user-level risk classification.
+
+<pre>
+🐙 GitHub Behavior Sequence
+        ↓
+🧠 Transformer-based Behavior Encoder
+
+🐦 Twitter Semantic Signal
+        ↓
+💬 BERTweet-based Text Encoder
+
+🔗 Behavior + Semantics
+        ↓
+⚡ Dual-Path Cross-Attention Fusion
+        ↓
+🚨 Malicious Developer Detection
+</pre>
+
+This research aims to support early warning and risk identification in open-source software supply chains.
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🧠 AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+
+### 🗄️ Data & Systems
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🦾 AIOS / Agent Security Evaluation
+
+> Ongoing research · Details to be released
+
+I am currently exploring security evaluation methods for AIOS and LLM-based Agent systems, with a focus on tool-use risks, permission boundaries, and semantic execution behaviors.
+
+This work aims to improve the understanding and detection of potential security risks in open-source AI systems.
+
+Keywords:
+
+`AIOS Security` · `Agent Safety` · `Tool-use Risk` · `AI Software Supply Chain Security`
+
+### 🐙 XPlat-MalHunter
+
+A cross-platform malicious developer detection framework for open-source ecosystems.
+
+Key features:
+
+- 🐙 GitHub behavior sequence modeling
+- 🐦 Twitter semantic representation with BERTweet
+- ⚡ Dual-path adaptive multimodal fusion
+- 🧩 Static profile feature integration
+- 🚨 User-level risk classification
+
+Keywords:
+
+`Open-source Security` · `Malicious Developer Detection` · `Behavior Modeling` · `Multimodal Fusion`
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Security evaluation for Agent frameworks
+- 🛠️ AIOS tool-use and execution boundary risks
+- 📚 Documentation-guided vulnerability discovery
+- 🧪 Feedback-driven prompt seed optimization
+- 🛡️ AI open-source software supply chain security
+
+---
+## ✨ A Little More About Me
+
+- 🧩 I enjoy turning messy system behaviors into clear research questions.
+- 🧪 I like building experimental pipelines that actually run, break, and teach me something.
+- 🐛 I’m fascinated by bugs that hide not only in code, but also in logic, semantics, and execution boundaries.
+- 🕵️ I enjoy asking “Wait... why did the system do that?” and then tracing it all the way down.
+- 🚀 Currently trying to make AI systems a little safer, one weird edge case at a time.
+
+## 📫 Contact Me
+
+- GitHub: [@XinTong02](https://github.com/XinTong02)
+- Email: XinTong0215@gmail.com
