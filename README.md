@@ -14,11 +14,11 @@
 
 ## 🧩 About Me
 
-Hi! I'm **Elena He**, a master's student majoring in **Cybersecurity**.
+Hi! I'm **Elena He**, a master's student in **Cybersecurity**.
 
-My current research focuses on **AI Agent security**, especially the security risks that may emerge when LLM-based agents interact with tools, contexts, permissions, and multi-step instructions.
+My research focuses on **AI Agent security**, especially the risks that can arise when LLM-based agents interact with tools, contexts, permissions, and multi-step instructions.
 
-I am interested in understanding how complex AI systems behave in real execution scenarios — and how seemingly helpful behaviors may sometimes cross security boundaries.
+I’m interested in how complex AI systems behave in real-world execution scenarios — and why seemingly helpful actions may sometimes cross security boundaries.
 
 ---
 
@@ -86,4 +86,4 @@ Keywords:
 ## 📫 Contact Me
 
 - GitHub: [@XinTong02](https://github.com/XinTong02)
-- Email: XinTong0215@gmail.com
+- Email: hexintong@whut.edu.cn
