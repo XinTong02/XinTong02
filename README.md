@@ -14,7 +14,7 @@
 
 ## 🧩 About Me
 
-Hi! I'm **Elena He**, a master's student in **Cybersecurity**.
+Hi! I'm **Elena**, a master's student in **Cybersecurity**.
 
 My research focuses on **AI Agent security**, especially the risks that can arise when LLM-based agents interact with tools, contexts, permissions, and multi-step instructions.
 
